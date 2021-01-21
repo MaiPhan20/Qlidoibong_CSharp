@@ -1,0 +1,13 @@
+c:\users\lonely\documents\visual studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+c:\users\lonely\documents\visual studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+c:\users\lonely\documents\visual studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+c:\users\lonely\documents\visual studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+c:\users\lonely\documents\visual studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+c:\users\lonely\documents\visual studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\PC\Downloads\Assignment 1 C#\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\PC\Downloads\Assignment 1 C#\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\PC\Downloads\Assignment 1 C#\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\PC\Downloads\Assignment 1 C#\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Assignment 1 C#\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Assignment 1 C#\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\PC\Downloads\Assignment 1 C#\Assignment\Assignment\obj\Debug\Assignment.pdb
